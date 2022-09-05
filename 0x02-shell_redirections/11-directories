@@ -1,2 +1,2 @@
 #!/bin/bash
-tree $PWD
+find . -mindepth | -type d | wc -l
