@@ -1,1 +1,1 @@
-0) Tp create a shell script that ceate hello world
+0) To create a shell script that ceate hello world, use echo "Hello World!"
